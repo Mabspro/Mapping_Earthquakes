@@ -3,10 +3,10 @@
 This was a project to see the earthquake data in relation to the tectonic plates’ location on the earth, as well as seeing all the earthquakes with a magnitude greater than 4.5 on the map. This would also include this data on a third map.
 
 Resources:
-Data Source: tectonic_plate_starter_logic.js, Major Earthquake Chart stater code, and index.html
-Data Tools: JavaScript, JSON, GeoJSON and IO (Web Server)
-Software: ES6+, ECMAScript and Visual Studio Code 1.50.0
-For more information, visit The Mapbox API.
+- Data Source: tectonic_plate_starter_logic.js, Major Earthquake Chart stater code, and index.html
+- Data Tools: JavaScript, JSON, GeoJSON and IO (Web Server)
+- Software: ES6+, ECMAScript and Visual Studio Code 1.50.0
+(For more information, visit The Mapbox API.)
 
 Tech Utilized:
 - Leaflet.js API for Geo map info
